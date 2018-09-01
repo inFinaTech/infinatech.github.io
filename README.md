@@ -4,4 +4,6 @@ infinatech.github.io
 
 > *github pages* page
 
-The inFinatech github page. 
+The inFinatech github.io page. 
+
+
