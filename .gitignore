@@ -1,3 +1,5 @@
 .rzr/
 .tmp
 *.tar*
+*.odt
+*#
