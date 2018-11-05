@@ -1,8 +1,5 @@
-infinatech.github.io
-=====================
+# gh-pages
 
-
-> *github pages* page
 
 The inFinatech github.io page. 
 
