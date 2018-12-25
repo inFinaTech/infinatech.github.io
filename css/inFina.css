@@ -1,31 +1,24 @@
+/* --- ############# xxx ############# --- */
+body {
+  font-family: 'CodeNewRomanRegular';
+  font-weight: normal;
+  font-style: normal;
+}
 
 /* --- ############# xxx ############# --- */
-body{
-     font-family: 'CodeNewRomanRegular';
-     font-weight: normal;
-     font-style: normal;
-   }
-
-/* --- ############# xxx ############# --- */
-.big-text{
+.big-text {
   font-size: 2.2rem;
   text-align: center;
   padding-top: 2em;
 }
 
 /* --- ############# xxx ############# --- */
-#logo{
+#logo {
   margin: auto;
   width: 42%;
 }
 
 /* --- ############# xxx ############# --- */
-
-
 /* --- ############# xxx ############# --- */
-
-
 /* --- ############# xxx ############# --- */
-
-
 /* --- ############# xxx ############# --- */
