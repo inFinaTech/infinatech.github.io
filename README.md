@@ -1,6 +1,6 @@
-# gh-pages
+# The inFinatech github.io page.
 
 
-The inFinatech github.io page. 
+
 
 
